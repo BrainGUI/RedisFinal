@@ -1,0 +1,6 @@
+redis:
+  host: redis-12732.c278.us-east-1-4.ec2.redns.redis-cloud.com
+  port: 12732
+  db: 0
+  user: default
+  password: Q0VFsSFBrKhK76CGilr9JuEX1gXJieQI
